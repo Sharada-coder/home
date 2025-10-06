@@ -21,7 +21,7 @@ img {
 .tagline {
   
   font-size: 1.5em;
-  margin-top: 20px;
+  padding-top: 20px;
   font-style: bold-italic;
   color:#008181;
 }
@@ -191,4 +191,5 @@ nav {
       border-bottom: 1px solid #eee;
 
     }
+
 
