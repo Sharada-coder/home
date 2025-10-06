@@ -20,8 +20,8 @@ img {
 
 .tagline {
   
-  font-size: 1.3em;
-  margin-top: 8px;
+  font-size: 1.5em;
+  margin-top: 10px;
   font-style: bold-italic;
   color:#008181;
 }
@@ -189,4 +189,5 @@ nav {
       padding: 100px 20px;
       margin-top: 60px;
       border-bottom: 1px solid #eee;
+
     }
